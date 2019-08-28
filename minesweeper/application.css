@@ -1,0 +1,25 @@
+.row {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.tile {
+  list-style: none;
+  padding: 10px;
+  border: solid 1px black;
+  background-color: grey;
+  width: 20px;
+  height: 20px;
+}
+
+.board{
+  padding-top: 100px;
+  width: 30%;
+  margin: auto;
+}
+
+h1{
+  display: block;
+  text-align: center;
+}
